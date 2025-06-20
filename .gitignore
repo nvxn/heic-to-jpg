@@ -1,0 +1,27 @@
+# Virtual environments
+.venv/
+venv/
+
+# Compiled Python files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Log files
+*.log
+
+# Environment variables and config files
+.env
+.env.*
+
+# Editor settings (optional, depending on team preferences)
+.vscode/
+
+# Cache and temporary database files
+.cache/
+*.sqlite3
+
+# System files
+.DS_Store
+Thumbs.db
