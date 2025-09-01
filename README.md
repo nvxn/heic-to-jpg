@@ -2,7 +2,7 @@
 
 Script en Python para convertir (desde la terminal) archivos `.heic` o `.heif` a `.jpg` utilizando la librería `pillow-heif`.
 
-Compatible con `Windows` y `Linux` (`Linux Mint` u otras distribuciones).
+Compatible con `Windows` y `Linux` (`Linux Mint`) u otras distribuciones.
 
 ---
 
